@@ -1,0 +1,32 @@
+/* Created by: Marcus Wehbi
+* Created on: April 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit4-01-HTML-GuessMyNumber
+*/
+
+body {
+	background-color: rgb(179, 228, 244);
+}
+
+h1 {
+	background-color: rgb(236, 249, 169);
+	color: hsl(0, 100%, 20%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #f4dc86;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #449c5a;
+	font-size: 20px;
+}
